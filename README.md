@@ -1,2 +1,2 @@
 # landing-rosca
-roscacommons.github.io
+cosmolocals.github.io/landing-rosca/
